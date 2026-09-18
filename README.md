@@ -6,18 +6,18 @@ Potentially will also overhall it more with features like putting slabs or stair
 
 Current progress:
 Oak logs work fully with the ratios:\
-1 log -> 2 doors\
-      -> 4 fences\
-      -> 1 fence gate\
-      -> 1 hanging sign\
-      -> 4 planks\
-      -> 1 shelf\
-      -> 2 signs\
-      -> 8 slabs\
-      -> 4 stairs\
-      -> 4 trapdoors\
-      -> 1 wood\
-      -> 1 stripped log\
-      -> 1 stripped wood\
+1 log -> 2 doors\      
+      -> 4 fences\      
+      -> 1 fence gate\      
+      -> 1 hanging sign\      
+      -> 4 planks\      
+      -> 1 shelf\      
+      -> 2 signs\      
+      -> 8 slabs\      
+      -> 4 stairs\      
+      -> 4 trapdoors\      
+      -> 1 wood\      
+      -> 1 stripped log\      
+      -> 1 stripped wood\      
 <img width="1920" height="1009" alt="2026-09-18_20 47 32" src="https://github.com/user-attachments/assets/8ba2e401-707d-4fef-9d06-f53052c06c2f" />
 <img width="1920" height="1009" alt="2026-09-18_20 47 55" src="https://github.com/user-attachments/assets/0f919608-8557-4e87-ae8c-e5229fe4e1f1" />
