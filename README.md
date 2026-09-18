@@ -19,8 +19,8 @@ Oak, spruce logs work fully with the ratios:
       -> 1 wood        
       -> 1 stripped log        
       -> 1 stripped wood   
-Iron, copper ingots work fully with ratios:
-1 ingot -> 3 bars  
-        -> 1 chain
+Iron, copper ingots work fully with ratios:          
+1 ingot -> 3 bars              
+        -> 1 chain          
 <img width="1920" height="1009" alt="2026-09-18_20 47 32" src="https://github.com/user-attachments/assets/8ba2e401-707d-4fef-9d06-f53052c06c2f" />
 <img width="1920" height="1009" alt="2026-09-18_20 47 55" src="https://github.com/user-attachments/assets/0f919608-8557-4e87-ae8c-e5229fe4e1f1" />
