@@ -5,7 +5,7 @@ This mod will allow the player to put in either wooden planks, logs or stripped 
 Potentially will also overhall it more with features like putting slabs or stairs into the stonecutter and turning them into other wooden items that have the same or less wood to item ratio.
 
 Current progress:
-Oak logs work fully with the ratios:  
+Oak, spruce logs work fully with the ratios:  
 1 log -> 2 doors        
       -> 4 fences        
       -> 1 fence gate        
@@ -18,6 +18,9 @@ Oak logs work fully with the ratios:
       -> 4 trapdoors        
       -> 1 wood        
       -> 1 stripped log        
-      -> 1 stripped wood        
+      -> 1 stripped wood   
+Iron, copper ingots work fully with ratios:
+1 ingot -> 3 bars  
+        -> 1 chain
 <img width="1920" height="1009" alt="2026-09-18_20 47 32" src="https://github.com/user-attachments/assets/8ba2e401-707d-4fef-9d06-f53052c06c2f" />
 <img width="1920" height="1009" alt="2026-09-18_20 47 55" src="https://github.com/user-attachments/assets/0f919608-8557-4e87-ae8c-e5229fe4e1f1" />
