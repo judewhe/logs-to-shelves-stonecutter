@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "logs-to-shelves-stonecutter",
+	"version": "${version}",
+	"name": "logs to shelves stonecutter",
+	"description": "This turns any log or stripped log into a shelf using the stonecutter with a 1 to 1 ratio",
+	"authors": [
+		"NitrousCandy"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/logs-to-shelves-stonecutter/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.judewhe.shelfstonecutter.LogsToShelvesStonecutter"
+		],
+		"client": [
+			"net.judewhe.shelfstonecutter.LogsToShelvesStonecutterClient"
+		],
+		"fabric-datagen": [
+			"net.judewhe.shelfstonecutter.LogsToShelvesStonecutterDataGenerator"
+		]
+	},
+	"mixins": [
+		"logs-to-shelves-stonecutter.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
