@@ -5,7 +5,7 @@ Potentially will also overhall it more with features like putting slabs or stair
 ## Details
 
 Current progress:
-Oak, spruce, dark oak, acacia logs:  
+Oak, spruce, dark oak, acacia, pale oak, crimson, warped, mangrove, birch, jungle, cherry, bamboo logs: (anything over 1 is halved for bamboo)       
 1 log -> 2 doors        
       -> 4 fences        
       -> 1 fence gate        
