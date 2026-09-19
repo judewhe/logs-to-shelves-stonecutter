@@ -5,7 +5,7 @@ Potentially will also overhall it more with features like putting slabs or stair
 ## Details
 
 Current progress:
-Oak, spruce logs work fully with the ratios:  
+Oak, spruce, dark oak, acacia logs:  
 1 log -> 2 doors        
       -> 4 fences        
       -> 1 fence gate        
@@ -15,11 +15,11 @@ Oak, spruce logs work fully with the ratios:
       -> 2 signs        
       -> 8 slabs        
       -> 4 stairs        
-      -> 4 trapdoors        
+      -> 2 trapdoors        
       -> 1 wood        
       -> 1 stripped log        
       -> 1 stripped wood   
-Iron, copper ingots work fully with ratios:          
+Iron, copper ingots:          
 1 ingot -> 3 bars              
         -> 1 chain          
 <img width="1920" height="1009" alt="2026-09-18_20 47 32" src="https://github.com/user-attachments/assets/8ba2e401-707d-4fef-9d06-f53052c06c2f" />
